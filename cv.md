@@ -1,5 +1,5 @@
 # Artem Nazaruk 
-
+![alt text](<it's me.jpg>)
 ### Junior Frontend Developer
 
 ***
