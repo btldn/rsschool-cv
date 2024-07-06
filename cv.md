@@ -1,5 +1,5 @@
 # Artem Nazaruk 
-![alt text](<./images/it's me.jpg>)
+![alt text](<./images/me.jpg>)
 ### Beginner Frontend Developer
 
 ***
