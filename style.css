@@ -3,6 +3,7 @@
     margin: 0;
     padding: 0;
     font-family: "Inter", sans-serif;
+    scroll-behavior: smooth;
 }
 
 .visually-hidden {
@@ -14,7 +15,7 @@
     overflow: hidden;
     border: 0;
     clip: rect(0 0 0 0);
-  }
+}
 
 li {
     list-style-position: inside;
@@ -56,6 +57,11 @@ li {
     text-decoration: none;
     text-transform: uppercase;
     color: #99A3B2;
+}
+
+.page-header__navigation-item a:hover {
+    color: #000000;
+    transition: 0.15s;
 }
 
 .profile {
@@ -156,6 +162,10 @@ li {
     margin: 12px 0px;
 }
 
+.contacts-item a{
+    color: #99A3B2;
+}
+
 .contacts-icon__wrapper {
     display: flex;
     margin-right: 12px;
@@ -183,4 +193,22 @@ li {
     padding: 0px 24px;
     font-size: 14px;
     align-items: center;
+}
+
+.page-footer__rs-icon {
+    fill: #000000;
+}
+
+.page-footer__rs-icon:hover {
+    fill: #99A3B2;
+    transition: 0.15s;
+}
+
+.page-footer__git-icon {
+    fill: #000000;
+}
+
+.page-footer__git-icon:hover {
+    fill: #99A3B2;
+    transition: 0.15s;
 }
