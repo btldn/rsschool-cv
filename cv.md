@@ -1,6 +1,6 @@
 # Artem Nazaruk 
-![alt text](<it's me.jpg>)
-### Junior Frontend Developer
+![alt text](<./images/it's me.jpg>)
+### Beginner Frontend Developer
 
 ***
 

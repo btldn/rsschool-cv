@@ -2,5 +2,22 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
+    font-family: "Inter", sans-serif;
 }
 
+.wrapper {
+    border: solid red 1px;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.page-header__wrapper {
+    margin: 0 auto;
+    width: 954px;
+}
+
+.page-header__navigation-list {
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+}
